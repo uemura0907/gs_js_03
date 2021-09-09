@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  font-size: 32px;
+  width: 100%;
+}
+header {
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+  text-align: center;
+  width: 48%;
+}
+#syuunyuu{
+  display: flex;
+  width: 100%;
+}
+#syuunyuu1{
+  text-align: center;
+  font-size: 18px;
+}
+
+#kamoku1{
+  width: 250px;
+}
+
+#kingaku1{
+  width: 120px;
+  position: relative;
+  left: 70px;  
+}
+
+#en1{
+  text-align: left;
+  font-size: 18px;
+  left: 150px;
+  position: relative;
+}
+
+
+h1 {
+  font-size: 100%;
+}
+main {
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+ul {
+  padding: 0;
+  border-top: 1px solid #000000;
+  display: table; 
+  table-layout: fixed;
+  width: 46%;
+  font-size: 80%;
+  margin: 0 3%;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  border: 1px solid #666;
+  background-color: #fff;
+  display: table-cell;
+  cursor: pointer;
+  color: #0d7dfd;
+  overflow:hidden
+}
+li:hover {
+  background: #0d7dfd;
+  color: #fff;
+}
+
+table {
+  margin: 20px 3%;
+  border: 1px solid #8dc3f5;
+  width: 46%;
+}
+th {
+  width: 30%;
+  font-size: 16px;
+  background-color: #d0e7fc;
+  border-bottom: 1px solid #8dc3f5;
+}
+td {
+  width: 30%;
+  font-size: 16px;
+
+}
+input {
+  margin: 10px 3%;
+  height: 30px;
+}
+#listtag{
+  display: flex;
+  width: 80%;
+}
+
